@@ -1,6 +1,6 @@
 - 👋 Hi, I’m dhruvil moradiya
 - 🚀 I’m iOS Devloper
-- 🔍 instagram: @swift.programmers
+- 🔍 instagram: @swift.programmers https://www.instagram.com/swift.programmers/
 - 📧 dhruvilmoradiya989@gmail.com
 
 
