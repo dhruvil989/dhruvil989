@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @dhruvil989
-- 👀 I’m interested in iOS Devlopment
-- 🌱 I’m currently learning Swift Language
+- 👋 Hi, I’m dhruvil moradiya
+- 🚀 I’m iOS Devloper
+- 🔍 instagram: @swift.programmers
+- 📧 dhruvilmoradiya989@gmail.com
 
 
 <!---
