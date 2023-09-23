@@ -1,6 +1,5 @@
 - 👋 Hi, I’m dhruvil moradiya
 - 🚀 I’m iOS Devloper
-- 🔍 instagram: @dhruvil.codes https://www.instagram.com/dhruvil.codes/
 - 📧 dhruvilmoradiya989@gmail.com
 
 
