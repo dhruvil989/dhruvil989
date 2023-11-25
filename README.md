@@ -23,7 +23,7 @@ Passionate and curious iOS Developer with 6 months of hands-on experience and tr
 ## Languages 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil989&layout=compact&hide=css,html,handlebars)
 
-🚀 Certtificates
+🚀 Certifications
 ------
 - iOS Development Certificate by Red & White Multimedia Education</li>
 - Personality Development Certificate by Red & White Group of Institutes
