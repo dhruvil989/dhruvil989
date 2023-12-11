@@ -21,7 +21,7 @@ Passionate and curious iOS Developer with 6 months of hands-on experience and tr
 
 
 ## Languages 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil989&layout=compact&hide=css,html,handlebars)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil989)
 
 🚀 Certifications
 ------
