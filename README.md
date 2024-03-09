@@ -7,6 +7,8 @@ Passionate and curious iOS Developer with 6 months of hands-on experience and tr
 
 🚀 Key Skills
 ------
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"/>
+
 - Xcode | Swift Programming | UIKit
 - API Integration | Postman
 - MVC | MVVM | VIPER
@@ -14,9 +16,27 @@ Passionate and curious iOS Developer with 6 months of hands-on experience and tr
 - Logical Thinking | App UI Design
 - Third-party Library & SDK Integration
 - CocoaPods | Swift Package Manager
+  
+
+  
+###
+🦄 My States
+------------------
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvil989&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvil989&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+🎧 Spotify recently played
+------------------
+<div align="left">
+  <a href="https://open.spotify.com/user/31nbmnycnleywxzj7h6ibz5nhmpy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nbmnycnleywxzj7h6ibz5nhmpy&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
-###
+
 📧 Let's Get in Touch
 ------------------
 <div align="left">
@@ -31,18 +51,6 @@ Passionate and curious iOS Developer with 6 months of hands-on experience and tr
   </a>
   <a href="https://www.instagram.com/dhruvil_moradiya/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
-  </a>
-</div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dhruvil989/dhruvil989/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31nbmnycnleywxzj7h6ibz5nhmpy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nbmnycnleywxzj7h6ibz5nhmpy&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
