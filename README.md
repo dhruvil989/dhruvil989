@@ -3,7 +3,7 @@
 
 👨‍💻 About Me
 ------
-Passionate and curious iOS Developer with 6 months of hands-on experience and training in iOS app development. I thrive on exploring new aspects of programming and am eager to learn and grow within the iOS development.
+Passionate and curious iOS Developer with more than a year of hands-on experience in iOS app development. I thrive on exploring new aspects of programming and am eager to learn and grow within the iOS development.
 
 🚀 Key Skills
 ------
